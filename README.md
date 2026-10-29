@@ -43,17 +43,18 @@ Repositorio oficial que contiene el desarrollo de los scripts criptográficos y 
 
 ## 📸 Evidencias del Sistema (Imágenes del Laboratorio)
 
-### 1. Inserción de Registros / Datos de Entrada
-*(Ilustra aquí con una captura de pantalla de cualquiera de tus formularios en funcionamiento, por ejemplo, el ingreso de un mensaje en el script de firma o encriptación)*
-> ![Insertar Registros](ruta/a/tu/imagen_insercion.png)
+### 1. Evidencia FirmaMensaje
+<img width="940" height="781" alt="WhatsApp Image 2026-10-29 at 1 30 21 PM" src="https://github.com/user-attachments/assets/6133fcf9-30c5-488e-9b43-ee1fe9c434b8" />
 
-### 2. Evidencia de Acciones de Modificar
-*(Ilustra aquí con una captura de pantalla cambiando los valores de entrada en el formulario —como modificar el texto predeterminado por uno personalizado— y cómo la aplicación procesa el cambio)*
-> ![Modificar Registros](ruta/a/tu/imagen_modificar.png)
+### 2. Evidencia Firma de certificado X.509
+<img width="940" height="594" alt="WhatsApp Image 2026-10-29 at 1 30 52 PM" src="https://github.com/user-attachments/assets/bc32789d-6506-4760-9400-8a9a3cfc1113" />
+<img width="940" height="535" alt="WhatsApp Image 2026-10-29 at 1 31 00 PM" src="https://github.com/user-attachments/assets/22562c3f-36c4-4d73-8ef6-de84fa84574d" />
 
-### 3. Evidencia de Acciones de Eliminar / Restablecer
-*(Ilustra aquí con una captura de pantalla que demuestre la limpieza de estados o la validación de errores/firmas inválidas al alterar los datos)*
-> ![Eliminar Acciones](ruta/a/tu/imagen_eliminar.png)
+### 3. Evidencia Firma7
+<img width="940" height="756" alt="WhatsApp Image 2026-10-29 at 1 31 09 PM" src="https://github.com/user-attachments/assets/03bf72cf-9f1e-4ada-8084-9bbe151023cc" />
+
+### 3. Evidencia Cifrado OpenSSL
+<img width="940" height="719" alt="WhatsApp Image 2026-10-29 at 1 31 16 PM" src="https://github.com/user-attachments/assets/b8d4884c-6547-40fa-bcdc-47ec645c08f4" />
 
 ---
 
